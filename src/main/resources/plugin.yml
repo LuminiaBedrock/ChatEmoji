@@ -1,5 +1,6 @@
-name: ChatEmoji
-main: theoni.chatemoji.Main
+name: "${pom.name}"
 version: "${pom.version}"
 api: ["1.0.0"]
 author: MEFRREEXX
+
+main: theoni.chatemoji.Main
