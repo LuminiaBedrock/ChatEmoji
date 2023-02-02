@@ -1,0 +1,5 @@
+name: ChatEmoji
+main: theoni.chatemoji.Main
+version: "${pom.version}"
+api: ["1.0.0"]
+author: MEFRREEXX
